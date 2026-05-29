@@ -39,4 +39,23 @@ qrev-voltammetry/
 └── README.md                 # Project documentation & structure
 
 ```
+⚙️ Core Scripts & Functions
+`qrev_find_alpha.py` — Main Pipeline
+An automated optimization environment that runs the main parameter-search loops:
+Section / Function	Objective	Operational Description
+`@njit _qrev_sim()`	Core Numerical Solver	Fast Soluble-Insoluble cyclic voltammetry model translated from original Fortran code.
+`@njit _qrev_rmse()`	Objective Function	Computes Root Mean Square Error, matching each experimental point to its nearest simulated potential.
+`load_experimental_data()`	Data Parser	Cleans, filters, and loads space/tab-separated files containing `POT Y Q` data.
+`find_best_alpha()`	Parameter Optimization	Grid-search solver isolating minimum RMSE across all combinations of $\alpha$ and $\omega$.
+`save_results()`	File Automation	Generates data tables, full curve files, and logs a Top 10 Best Fits summary table.
+`plot_results()`	Data Visualization	Generates and exports the final thesis-ready figure comparing simulation and experimental data.
+Running the execution script:
+```bash
+# Opens a graphical file dialog to select data manually
+python qrev_find_alpha.py
+
+# Pass data path directly via CLI with instant plotting enabled
+python qrev_find_alpha.py data.txt --plot
+
+```
 
