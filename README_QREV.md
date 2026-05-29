@@ -51,7 +51,7 @@ When you test with data generated from known parameters (e.g., alpha=0.5, omega=
 
 ## Output Files
 
-After running, you'll find in `C:\Users\ranin\qrev_output\`:
+After running, you'll find in `C:\Users\user\qrev_output\`:
 - `qrev_rmse_results.csv` - All tested combinations and their RMSE
 - `qrev_best_fit.csv` - Comparison of best simulation vs experimental data
 - `qrev_best_curve.csv` - Full best-fit simulation curve
