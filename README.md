@@ -4,6 +4,8 @@
 
 For permission requests or academic collaboration, please contact: **abderraouf.haddad@ensh.dz**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20451254.svg)](https://doi.org/10.5281/zenodo.20451254)
+
 ---
 
 ## 📊 Pipeline Workflow
