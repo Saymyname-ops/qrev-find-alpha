@@ -2,7 +2,7 @@
 
 > **This repository contains the complete computational and automation pipeline developed as part of the engineering thesis.** It connects every stage of the research workflow: from loading experimental cyclic voltammetry data to high-speed kinetic modeling and automated graphic exports.
 
-For permission requests or academic collaboration, please contact: **abderraouf.haddad@ensh.dz**
+contact: **abderraouf.haddad@ensh.dz**
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20451254.svg)](https://doi.org/10.5281/zenodo.20451254)
 
