@@ -112,7 +112,7 @@ This publication guarantees complete transparency, absolute reproducibility, and
 ## 📜 License & Intellectual Property
 
 All rights reserved © 2026 — Raouf haddad  
-**Academic Use Only.** Deposited at **ONDA** (National Office of Copyright and Related Rights), Algeria.
+Deposited at **ONDA** (National Office of Copyright and Related Rights), Algeria.
 
 ---
 
