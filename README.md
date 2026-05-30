@@ -55,6 +55,7 @@ An automated optimization environment that runs the main parameter-search loops:
 | `find_best_alpha()` | Parameter Optimization | Grid-search solver isolating minimum RMSE across all combinations of $\alpha$ and $\omega$. |
 | `save_results()` | File Automation | Generates data tables, full curve files, and logs a **Top 10 Best Fits** summary table. |
 | `plot_results()` | Data Visualization | Generates and exports the final thesis-ready figure comparing simulation and experimental data. |
+
 Running the execution script:
 ```bash
 # Opens a graphical file dialog to select data manually
