@@ -1,6 +1,6 @@
 # QREV Voltammetry Simulation & Parameter Optimization Pipeline
 
-> **This repository contains the complete computational and automation pipeline developed as part of the engineering thesis.** It connects every stage of the research workflow: from loading experimental cyclic voltammetry data to high-speed kinetic modeling and automated graphic exports.
+> **This repository contains the complete computational and automation pipeline developed as part of the engineering thesis.** It connects every stage of the research workflow: from loading experimental cyclic voltammetry data to high-speed kinetic modeling and automated graphic exports It is important to state that since this software is an initial, first-release version, it may still contain  runtime errors or numericale bugs.
 
 contact: **abderraouf.haddad@ensh.dz**
 
