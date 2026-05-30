@@ -102,7 +102,7 @@ All data files and visuals are formatted automatically for direct copy-pasting o
 
 * **Degree Framework:** Engineering Degree in Process Engineering (*Ingénieur d'État en Génie des Procédés*).
 * **Thesis Title:** *“Numerical simulation and critical analysis of Tafel curves obtained from cyclic voltammetry for the optimised determination of the charge transfer coefficient.”*
-* **Core Scientific Purpose:** Developing a fast, reliable analytical workflow that overcomes the accuracy limitations of traditional graphical Tafel approximations by tracking error behaviors ($\alpha_{ln}$ and $\alpha_{de}$) across varied kinetic limits.
+
 
 ### Purpose of Public Code Tracking:
 This publication guarantees complete transparency, absolute reproducibility, and verifiable technical documentation for the computational modeling component of the defense. It serves as a secure, **timestamped academic record** to prevent any false positives or conflicts with plagiarism detection algorithms during manuscript submission.
