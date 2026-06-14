@@ -107,7 +107,7 @@ All data files and visuals are formatted automatically for direct copy-pasting o
 ### Purpose of Public Code Tracking:
 This publication guarantees complete transparency, absolute reproducibility, and verifiable technical documentation for the computational modeling component of the defense. It serves as a secure, **timestamped academic record** to prevent any false positives or conflicts with plagiarism detection algorithms during manuscript submission.
 
- 
+Consequently, this tool does not aim to achieve a perfect match with real experimental curves, as such an objective would require additional steps including experimental data pre-processing such as baseline correction and signal smoothing, as well as model refinements to account for physical phenomena not included in the present formulation, such as the capacitive double-layer current, ohmic resistance drop, and nucleation overpotential loop characteristic of soluble-insoluble systems. These aspects represent promising directions for the future development of this work." 
 
 ## 📜 License & Intellectual Property
 
@@ -115,6 +115,7 @@ All rights reserved © 2026 — Raouf haddad
 Deposited at **ONDA** (National Office of Copyright and Related Rights), Algeria.
 
 ---
+
 
 ## ✍️ Citation
 
